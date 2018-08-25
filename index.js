@@ -63,7 +63,7 @@ function createRock(x) {
    * seems like a good pace.)
    */
    
-   
+   moveRock();
    
   function moveRock() {
     // implement me!
