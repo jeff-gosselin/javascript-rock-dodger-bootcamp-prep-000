@@ -130,7 +130,7 @@ function moveDodger(e) {
     moveDodgerRight();
   }
   
-  e.preventDefault();
+  
   /**
    * This function should call `moveDodgerLeft()`
    * if the left arrow is pressed and `moveDodgerRight()`
