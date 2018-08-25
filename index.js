@@ -82,7 +82,7 @@ function createRock(x) {
     if(top == GAME_HEIGHT-20){
     rock.remove();
     }
-  }
+  
     /**
      * Otherwise, if the rock hasn't reached the bottom of
      * the GAME, we want to move it again.
