@@ -114,7 +114,7 @@ function createRock(x) {
 function endGame() {
  
   clearInterval(gameInterval);
-  ROCKS.removeChild();
+  ROCKS.removeChild(rock);
 }
 
 function moveDodger(e) {
