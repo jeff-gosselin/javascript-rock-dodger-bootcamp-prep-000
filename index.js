@@ -75,7 +75,7 @@ function createRock(x) {
   if (checkCollision === true) {
     endGame();
   } else {
-    if(top<375){
+    if(top<365){
        window.requestAnimationFrame(moveRock);
      }
 
